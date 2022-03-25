@@ -29,3 +29,21 @@ Kode tag yang digunakan untuk deskripsi list adalah `<dl>`, seperti berikut.
 Tampilan website nya seperti ini
 
 ![ss 6](img/ss4-2.PNG)
+
+## Belajar Membuat Tabel
+
+Membuat file baru kemudian membuat table dengan kode-kode sebagai berikut:
+- `<table>`        : Mendefinisikan sebuah tabel dalam dokumen HTML. Atribut: border, cellpadding, cellspacing
+- `<thead>`        : untuk membungkus bagian kepala tabel
+- `<tbody>`        : untuk membungkus bagian body dari tabel
+- `<th>`           : Membuat judul kolom
+- `<tr>`           : Mendefinisikan baris dalam tabel
+- `<td>`           : Mendefinisikan kolom tabel
+Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
+Untuk contohnya sebagai berikut
+
+![ss 7](img/ss5-2.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 8](img/ss5-3.PNG)
