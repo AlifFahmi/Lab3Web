@@ -11,3 +11,5 @@ Langkah pertama membuat dokumen HTML, kemudian untuk kode tag yang digunakan unt
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss2-2.png)
+
+b
