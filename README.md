@@ -39,6 +39,7 @@ Membuat file baru kemudian membuat table dengan kode-kode sebagai berikut:
 - `<th>`           : Membuat judul kolom
 - `<tr>`           : Mendefinisikan baris dalam tabel
 - `<td>`           : Mendefinisikan kolom tabel
+
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan cellspacing pada tag table.
 Untuk contohnya sebagai berikut
 
@@ -47,3 +48,12 @@ Untuk contohnya sebagai berikut
 Tampilan website nya seperti ini
 
 ![ss 8](img/ss5-3.PNG)
+
+### Menggabungkan Cel Data
+Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara horizontal). Contohnya sebagai berikut
+
+![ss 9](img/ss6-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 10](img/ss6-2.PNG)
