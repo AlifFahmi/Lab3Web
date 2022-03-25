@@ -57,3 +57,20 @@ Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowsp
 Tampilan website nya seperti ini
 
 ![ss 10](img/ss6-2.PNG)
+
+## Membuat Form
+Membuat form dengan contoh kodingan berikut
+
+![ss 11](img/ss7-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 12](img/ss7-2.PNG)
+
+Kemudian menambahkan CSS agar tampilan menarik
+
+![ss 13](img/ss8-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 14](img/ss8-2.PNG)
